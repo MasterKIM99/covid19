@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1065218389077",
+    "firebase_url": "https://errorlogger-d4757.firebaseio.com",
+    "project_id": "errorlogger-d4757",
+    "storage_bucket": "errorlogger-d4757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065218389077:android:1c4c7f3d3e587a9857d0dc",
+        "android_client_info": {
+          "package_name": "com.apb.laoscovid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065218389077-ohscrik42r3qe224celcd9ub0a8bk7l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA62YVb_yXSqon76j_EF85PtWPu4RA5_2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065218389077-ohscrik42r3qe224celcd9ub0a8bk7l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
